@@ -1,6 +1,6 @@
 # PHP
 
-Projet E-commerce en PHP Orienté Objet
+'Projet E-commerce en PHP Orienté Objet
 Description
 Ce projet est un site de e-commerce développé en PHP orienté objet. Il utilise des notions simples et inclut un front-end en HTML, CSS et JavaScript, ainsi qu'un back-end en PHP avec une base de données MySQL. Le but de ce projet est de fournir une plateforme e-commerce fonctionnelle et extensible.
 
@@ -32,9 +32,7 @@ Démarrer le serveur :
 Utilisez un serveur local comme XAMPP ou WAMP.
 Placez le projet dans le répertoire htdocs (pour XAMPP) ou www (pour WAMP).
 Démarrez Apache et MySQL depuis le panneau de contrôle du serveur local.
-Accéder au site :
 
-Ouvrez votre navigateur et allez à l'adresse http://localhost/[nom_du_projet].
 Utilisation
 Utilisateur : Inscrivez-vous ou connectez-vous pour parcourir les produits et faire des achats.
 Administrateur : Connectez-vous avec les identifiants d'administration pour gérer le site.
@@ -45,4 +43,4 @@ Auteurs
 Reda Benzakour
 Ayoub
 Licence
-Ce projet est sous licence [Nom de la licence].
+Ce projet est sous licence [Nom de la licence].'
